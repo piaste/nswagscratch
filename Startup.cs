@@ -44,25 +44,19 @@ namespace nswagscratch
             app.UseHttpsRedirection();
             app.UseMvc();
 
-app.UseSwaggerUi3(
-    controllerTypes: new [] { typeof(Controllers.ValuesController) },
-    configure: settings =>
-{
-    settings.SwaggerRoute = "/nswag/v1/swagger.json";
-        settings.SwaggerUiRoute = "/nswag";
-        
-        var genSettings = settings.GeneratorSettings;
-        genSettings.DefaultPropertyNameHandling = NJsonSchema.PropertyNameHandling.CamelCase        ;
-        genSettings.Description = "asdsds"; //"Servizio API di Zeus Retail 4.0"
-        genSettings.Title = "asdsds"; //"Zeus.API"
-        genSettings.Version = "asdsds"; // "0.0.1"
-},
-schemaGenerator: new NSwag.SwaggerGeneration.SwaggerJsonSchemaGenerator(
-    new NSwag.SwaggerGeneration.WebApi.WebApiToSwaggerGeneratorSettings()
-          { DefaultReferenceTypeNullHandling = NJsonSchema.ReferenceTypeNullHandling.NotNull
-          , IsAspNetCore = true
-          })
-);
+            app.UseSwaggerUi3(
+                controllerTypes: new [] { typeof(Controllers.ValuesController) },
+                configure: settings =>
+                    {
+                        settings.SwaggerRoute = "/nswag/v1/swagger.json";
+                        settings.SwaggerUiRoute = "/nswag";
+                    },
+                schemaGenerator: 
+                    new NSwag.SwaggerGeneration.SwaggerJsonSchemaGenerator(
+                        new NSwag.SwaggerGeneration.WebApi.WebApiToSwaggerGeneratorSettings()
+                            { IsAspNetCore = true
+                            })
+            );
         }
     }
 }
