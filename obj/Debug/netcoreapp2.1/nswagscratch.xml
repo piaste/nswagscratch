@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>nswagscratch</name>
+    </assembly>
+    <members>
+        <member name="M:nswagscratch.Controllers.ValuesController.Get(System.Int32)">
+            <summary> gets foo <param name="ifd">ignorato</param></summary>        
+        </member>
+    </members>
+</doc>

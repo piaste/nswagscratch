@@ -1,0 +1,16 @@
+D:\ESPERIMENTI\nswagscratch\bin\Debug\netcoreapp2.1\nswagscratch.deps.json
+D:\ESPERIMENTI\nswagscratch\bin\Debug\netcoreapp2.1\nswagscratch.runtimeconfig.json
+D:\ESPERIMENTI\nswagscratch\bin\Debug\netcoreapp2.1\nswagscratch.runtimeconfig.dev.json
+D:\ESPERIMENTI\nswagscratch\bin\Debug\netcoreapp2.1\nswagscratch.dll
+D:\ESPERIMENTI\nswagscratch\bin\Debug\netcoreapp2.1\nswagscratch.pdb
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.csprojAssemblyReference.cache
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.csproj.CoreCompileInputs.cache
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.RazorAssemblyInfo.cache
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.RazorAssemblyInfo.cs
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.AssemblyInfoInputs.cache
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.AssemblyInfo.cs
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.RazorTargetAssemblyInfo.cache
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.dll
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.pdb
+D:\ESPERIMENTI\nswagscratch\bin\Debug\netcoreapp2.1\nswagscratch.xml
+D:\ESPERIMENTI\nswagscratch\obj\Debug\netcoreapp2.1\nswagscratch.xml
