@@ -6,7 +6,7 @@
     <members>
         <member name="M:nswagscratch.Controllers.ValuesController.Get(System.Int32)">
             <summary> gets foo 
-            <param name="ifd">not actually used</param>
+            <param name="id">not actually used</param>
             </summary>        
         </member>
     </members>

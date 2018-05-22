@@ -15,7 +15,7 @@ namespace nswagscratch.Controllers
         /// <param name="id">not actually used</param>
         /// </summary>        
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int ifd)
+        public ActionResult<string> Get(int id)
         {
             return "value";
         }
