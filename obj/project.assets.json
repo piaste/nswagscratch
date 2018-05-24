@@ -11703,6 +11703,8 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.0-rc1-final",
       "Microsoft.NETCore.App >= 2.1.0-rc1",
+      "System.IO.FileSystem >= 4.3.0",
+      "System.Xml.XPath.XDocument >= 4.3.0",
       "nswag.aspnetcore >= 11.17.9"
     ]
   },
@@ -11758,6 +11760,14 @@
             "target": "Package",
             "version": "[2.1.0-rc1, )",
             "autoReferenced": true
+          },
+          "System.IO.FileSystem": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "System.Xml.XPath.XDocument": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           },
           "nswag.aspnetcore": {
             "target": "Package",

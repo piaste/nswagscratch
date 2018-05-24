@@ -26,6 +26,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.0-rc1-final",
           "Microsoft.NETCore.App": "2.1.0-rc1",
+          "System.IO.FileSystem": "4.3.0",
+          "System.Xml.XPath.XDocument": "4.3.0",
           "NSwag.AspNetCore": "11.17.9"
         },
         "runtime": {
